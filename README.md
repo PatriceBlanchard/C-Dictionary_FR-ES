@@ -1,8 +1,9 @@
 ## C-Dictionnaire_FR-ES  
-
-
+  
+  
 __Compilation et exécution :__  
-
+  
+  
 gcc -Wall dico.c
 a.out echantillon-test  
 
