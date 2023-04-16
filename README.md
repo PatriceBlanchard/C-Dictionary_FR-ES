@@ -31,6 +31,7 @@ __Exécution de deux tests :__
 
 gcc -Wall -DTEST dico.c
 <br>
+<br>
 La commande ci-dessus affichera :
 <br>
 <br>
