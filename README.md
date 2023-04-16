@@ -19,8 +19,8 @@ absolutisme
 <br>
 <br>
 Mot Français : absolutisme - Catégorie : [n]
-
 Mot Espagnol : absolutismo - Catégorie : [n]
+<br>
 <br>
 (Continuer : O/N):
 n
