@@ -23,7 +23,7 @@ Mot Espagnol : absolutismo - Catégorie : [n]
 (Continuer : O/N):
 n
 
--------
+--
 __Exécution de deux tests :__
 
 gcc -Wall -DTEST dico.c
