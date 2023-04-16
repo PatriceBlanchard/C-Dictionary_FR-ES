@@ -10,7 +10,7 @@ a.out echantillon-test
 <br>
 Exemple d'utilisation :
 <br>
-
+<br>
 Dictionnaire Français-Espagnol  
 <br>
 
