@@ -1,14 +1,17 @@
 # C-Dictionnaire_FR-ES
 
+
+__Compilation et exécution :__
+
 gcc -Wall dico.c
 a.out echantillon-test
 
 
 Exemple d'utilisation :
 
-------------------------------
+
 Dictionnaire Français-Espagnol
-------------------------------
+
 Saisir un mot à traduire :
 absolutisme
 
@@ -20,7 +23,7 @@ Mot Espagnol : absolutismo - Catégorie : [n]
 n
 
 
-Exécution de deux tests :
+__Exécution de deux tests :__
 
 gcc -Wall -DTEST dico.c
 
