@@ -13,10 +13,11 @@ Exemple d'utilisation :
 <br>
 Dictionnaire Français-Espagnol  
 <br>
-
+<br>
 Saisir un mot à traduire :
 absolutisme
-
+<br>
+<br>
 Mot Français : absolutisme - Catégorie : [n]
 
 Mot Espagnol : absolutismo - Catégorie : [n]
