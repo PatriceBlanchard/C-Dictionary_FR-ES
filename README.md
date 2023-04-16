@@ -3,7 +3,6 @@ C-Dictionnaire_FR-ES
   
 __Compilation et exécution :__  
 <br>
-<br>
   
 gcc -Wall dico.c
 a.out echantillon-test  
