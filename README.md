@@ -33,8 +33,10 @@ gcc -Wall -DTEST dico.c
 <br>
 La commande ci-dessus affichera :
 <br>
+<br>
 Test1 : Imprimer les mots français dans un fichier
 Impression des mots en français dans le fichier mot_fr.txt terminée.
+<br>
 <br>
 Test2 : Rétroconstruction du fichier initial
 Rétro-construction dans le fichier retro_construction.txt terminée.
