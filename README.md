@@ -16,8 +16,6 @@ Dictionnaire Français-Espagnol
 <br>
 Saisir un mot à traduire :
 absolutisme
-<br>
-<br>
 Mot Français : absolutisme - Catégorie : [n]
 Mot Espagnol : absolutismo - Catégorie : [n]
 <br>
