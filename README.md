@@ -1,16 +1,16 @@
-# C-Dictionnaire_FR-ES
+## C-Dictionnaire_FR-ES  
 
 
-__Compilation et exécution :__
+__Compilation et exécution :__  
 
 gcc -Wall dico.c
-a.out echantillon-test
+a.out echantillon-test  
 
 
-Exemple d'utilisation :
+Exemple d'utilisation :  
 
 
-Dictionnaire Français-Espagnol
+Dictionnaire Français-Espagnol  
 
 Saisir un mot à traduire :
 absolutisme
