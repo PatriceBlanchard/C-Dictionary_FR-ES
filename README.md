@@ -5,6 +5,7 @@ __Compilation et exécution :__
 <br>
   
 gcc -Wall dico.c
+<br>
 a.out echantillon-test
 <br>
 
